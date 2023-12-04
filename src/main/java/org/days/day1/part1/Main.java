@@ -1,4 +1,4 @@
-package org.days.day1;
+package org.days.day1.part1;
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -12,7 +12,7 @@ public class Main {
 
     public static void main(String[] args) {
 
-        List<String> codedLines = readInput("src/main/java/org/days/day1/input.txt");
+        List<String> codedLines = readInput("src/main/java/org/days/day1/part1/input.txt");
         List<String> numberStrings = filterCodedLinesForNumbers(codedLines);
         int sum = sumTwoDigitNumbers(numberStrings);
         System.out.println(sum);
