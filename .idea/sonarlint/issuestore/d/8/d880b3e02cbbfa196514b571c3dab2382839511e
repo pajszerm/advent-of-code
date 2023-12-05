@@ -1,0 +1,9 @@
+
+g	java:S112!"FDefine and throw a dedicated exception instead of using a generic one.(╥В╥щ№    8╩▀си├1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(о¤сы√    8ярси├1
+t
+java:S3776T"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(МКЇа     8╖уЄи├1
+>	java:S131X""Add a default case to this switch.(Жё╠·8єрси├1
+C	java:S131`""Add a default case to this switch.(└ь▒д¤    8Їрси├1
+>	java:S131h""Add a default case to this switch.(бв╛ч8Їрси├1
+D	java:S131А""Add a default case to this switch.(Р╫Ф│     8Їрси├1

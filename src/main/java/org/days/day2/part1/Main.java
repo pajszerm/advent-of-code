@@ -68,16 +68,19 @@ public class Main {
                             return false;
                         }
                         currentCount = 0;
+                        break;
                     case "green":
                         if (currentCount > 13) {
                             return false;
                         }
                         currentCount = 0;
+                        break;
                     case "blue":
                         if (currentCount > 14) {
                             return false;
                         }
                         currentCount = 0;
+                        break;
                 }
             }
         }
